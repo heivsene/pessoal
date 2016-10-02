@@ -21,3 +21,9 @@ A lot a code, about a lot of thing that meening something for me, such as
 
 ##Hacker Rank
 Here I tried to solve some challenges, mostly about algorithms.
+
+##Graduated Projects
+Distributed Systems Mutal Exclusion: https://openhub.net/p/exclusaomutua
+Distributed Systems: https://www.openhub.net/p/trabalhosd1
+Distributed Systems Low Level RMI: https://www.openhub.net/p/rmilibrary
+Desktop Distributed Systems Most Amazing UDP Chat RMI: https://openhub.net/p/chatudprmi
